@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sm0k3ms
-- 👀 I’m interested in password cracking, android rats, device tweeks
-- 🌱 I’m currently learning Cyber Secerity, currently enrolled in cdi's cyber security specalist program
+- 👀 I’m interested in password cracking, android rats, device tweeks, Hacking, Security Exploits, Website Vulnerabilities
+- 🌱 I’m currently learning Cyber Secerity, currently enrolled in CDI College's Cyber Security Specalist Program
 - 💞️ I’m looking to collaborate on password cracking itunes bypass, keyloggers, spyware, frp unlocking, remote access
 - 📫 How to reach me ...here or my email sm0k3ms@outlook.com
 
